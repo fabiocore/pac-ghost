@@ -1,3 +1,5 @@
+![Pac-Ghost Game](https://github.com/fabiocore/pac-ghost/tree/main/screenshots/game.png)
+
 # Pac-Ghost
 
 A battle-royale style maze game inspired by Pac-Man, built with PyGame and Amazon Q.
