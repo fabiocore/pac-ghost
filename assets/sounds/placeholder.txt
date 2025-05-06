@@ -1,0 +1,5 @@
+This directory will contain game sounds.
+
+Required sounds:
+- pickup.wav: Sound when a ghost eats a PacMan
+- elimination.wav: Sound when a ghost is eliminated

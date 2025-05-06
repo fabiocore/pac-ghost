@@ -1,0 +1,7 @@
+This directory will contain game images.
+
+Required images:
+- ghost.svg: Player's blue ghost
+- ghost-colors.svg: Other ghost colors
+- pacman.svg: PacMan character
+- death-effect.svg: Death animation effect
