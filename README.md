@@ -1,4 +1,4 @@
-![Pac-Ghost Game](https://github.com/fabiocore/pac-ghost/tree/main/screenshots/game.png)
+![Pac-Ghost Game](./screenshots/game.png)
 
 # Pac-Ghost
 
